@@ -2,11 +2,9 @@ absl-py==0.8.1
 astor==0.7.1
 certifi==2019.9.11
 Click==7.0
-Flask
+Flask==1.1.2
 Keras-Applications==2.2.3
 Keras-Preprocessing==2.2.3
-mkl-fft
-mkl-random
 nltk==3.4.5
 numpy==1.16.5
 pyreadline==2.1
