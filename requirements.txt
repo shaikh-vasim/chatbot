@@ -19,5 +19,4 @@ tflearn==0.5.0
 
 COVID19Py
 random2== 1.0.1
-json==2.0.9
-
+json5==0.9.5

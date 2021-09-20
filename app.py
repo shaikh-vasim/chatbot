@@ -1,5 +1,5 @@
 import pickle
-import json
+import json5 as json
 import random2 as random
 import tensorflow as tf
 import tflearn
