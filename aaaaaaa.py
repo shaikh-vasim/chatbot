@@ -1,2 +1,4 @@
 import random
-print(random.__version__)
+
+aa=random.__package__
+

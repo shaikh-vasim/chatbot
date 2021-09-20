@@ -16,7 +16,7 @@ tensorflow-estimator==2.2.0
 tflearn==0.5.0
 
 COVID19Py
-random== 1.0.1
+random2== 1.0.1
 json
 pickle
 

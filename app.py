@@ -1,6 +1,6 @@
 import pickle
 import json
-import random
+import random2 as random
 import tensorflow as tf
 import tflearn
 import numpy as np
