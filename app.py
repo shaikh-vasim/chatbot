@@ -6,7 +6,7 @@ import tflearn
 import numpy as np
 from flask import Flask, render_template, request, jsonify
 import nltk
-import datetime
+# import datetime
 from nltk.stem.lancaster import LancasterStemmer
 import COVID19Py
 
