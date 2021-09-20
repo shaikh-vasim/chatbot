@@ -1,7 +1,7 @@
 import pickle
 import json5 as json
 import random2 as random
-import tensorflow as tf
+# import tensorflow as tf
 import tflearn
 import numpy as np
 from flask import Flask, render_template, request, jsonify
@@ -103,6 +103,6 @@ def get_bot_response():
 
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
+    # app.run(host='0.0.0.0', port=8080)
 
-    # app.run()
+    app.run()
