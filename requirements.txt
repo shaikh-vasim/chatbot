@@ -4,6 +4,7 @@ astor==0.7.1
 certifi==2019.9.11
 Click==7.0
 Flask==1.1.2
+pickle
 
 
 nltk==3.4.5
@@ -17,6 +18,5 @@ tflearn==0.5.0
 
 COVID19Py
 random2== 1.0.1
-json
-pickle
+json==2.0.9
 

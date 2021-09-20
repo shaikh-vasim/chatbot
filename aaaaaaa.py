@@ -1,4 +1,4 @@
-import random
+import pickle
 
-aa=random.__package__
-
+aa = pickle.__version__
+print(aa)
