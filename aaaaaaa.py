@@ -1,2 +1,2 @@
-import flask
-print(flask.__version__)
+import random
+print(random.__version__)
